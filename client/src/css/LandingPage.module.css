@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    background-image:url("file:///C:/Users/Usuario/Desktop/PI-Food-main/client/src/css/img/LandingPage.jpg");
+    background-position: center center;
+    background-size:cover; 
+    min-height: 100vh;
+    min-width: 100vh;
+}
+
+.title {
+    color: rgba(255, 255, 255, 0.897);
+    margin-top: 40px;
+    font-size: 50px;
+    padding-bottom: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 1rem;
+ }
+
+ .button {
+     background-color: transparent;
+     border: 2px solid #f4f7f8;
+     border-radius: 1rem;
+     text-shadow: center;
+     width: 200px;
+     height: 50px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: #f4f7f8;
+     font-size: 30px;
+     font-style:italic;
+     cursor: pointer;
+     transition: 0.9s;
+       
+
+ }
+
+ 
+
